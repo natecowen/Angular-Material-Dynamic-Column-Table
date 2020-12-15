@@ -1,0 +1,8 @@
+.full-width-filter{
+  width:100% !important;
+  padding-left:10px;
+}
+
+.mat-warning {
+   background-color: rgb(255,87,34);
+}
